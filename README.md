@@ -1,4 +1,4 @@
-# React + Vite
+# Context API
 
 THis is to practice the concepts Of conext API,
 - It has a two component User and Greet, The User component takes input and Greet show it as output.
